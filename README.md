@@ -20,7 +20,7 @@
   
  
 
-<code><img justify="center" height="380" src="./prtscreens/hom.jpg"></code>
+<code><img align="center" height="380" src="./prtscreens/hom.jpg"></code>
 
 <h2 align="center">Home ⬆️</h2>
 
