@@ -20,14 +20,14 @@
   
  
 
-<code><img justify="center" height="380" src="./prtscreens/hom.png"></code>
+<code><img justify="center" height="380" src="./prtscreens/hom.jpg"></code>
 
 <h2 align="center">Home ⬆️</h2>
 
-<code><img height="380" src="./prtscreens/res.png"></code>
+<code><img height="380" src="./prtscreens/res.jpg"></code>
 
 <h2 align="center">Detalhes ⬆️</h2>
 
-<code><img height="190"src="./prtscreens/hist.png"></code>
+<code><img height="190" src="./prtscreens/hist.jpg"></code>
 
 <h2 align="center">Histórico ⬆️</h2>
