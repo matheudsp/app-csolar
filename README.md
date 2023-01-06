@@ -20,4 +20,14 @@
   
  
 
-<code><img justify="center" height="100" src="https://drive.google.com/file/d/1bAW6OEFb0vMSykkOQU5uu8jyuIwE43ay/view?usp=sharing"></code>
+<code><img justify="center" height="380" src="./prtscreens/hom.png"></code>
+
+<h2 align="center">Home ⬆️</h2>
+
+<code><img height="380" src="./prtscreens/res.png"></code>
+
+<h2 align="center">Detalhes ⬆️</h2>
+
+<code><img height="190"src="./prtscreens/hist.png"></code>
+
+<h2 align="center">Histórico ⬆️</h2>
