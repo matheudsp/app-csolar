@@ -28,6 +28,6 @@
 
 <h2 align="center">Detalhes ⬆️</h2>
 
-<code><img height="190" src="./prtscreens/hist.jpg"></code>
+<code><img height="380" src="./prtscreens/hist.jpg"></code>
 
 <h2 align="center">Histórico ⬆️</h2>
