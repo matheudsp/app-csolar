@@ -22,15 +22,21 @@
 <p align="center">
    <code><img  height="400" src="./prtscreens/hom.jpg"></code>
    <h2 align="center">Home ⬆️</h2>
-</p>
-
-
-<p align="center">
+   
    <code><img height="400" src="./prtscreens/res.jpg"></code>
+   <h2 align="center">Detalhes ⬆️</h2>
+   
+   <code><img height="400" src="./prtscreens/hist.jpg"></code>
+   <h2 align="center">Histórico ⬆️</h2>
 </p>
-<h2 align="center">Detalhes ⬆️</h2>
+
 
 <p align="center">
-   <code><img height="400" src="./prtscreens/hist.jpg"></code>
+   
 </p>
-<h2 align="center">Histórico ⬆️</h2>
+
+
+<p align="center">
+   
+</p>
+
