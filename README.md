@@ -21,13 +21,8 @@
  
 <p display="flex">
    <code><img  height="400" src="./prtscreens/hom.jpg"></code>
-   <h2 align="center">Home ⬆️</h2>
-   
    <code><img height="400" src="./prtscreens/res.jpg"></code>
-   <h2 align="center">Detalhes ⬆️</h2>
-   
    <code><img height="400" src="./prtscreens/hist.jpg"></code>
-   <h2 align="center">Histórico ⬆️</h2>
 </p>
 
 
