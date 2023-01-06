@@ -19,9 +19,9 @@
     * Utilizada para calcular o potencial energético de sistemas de energia fotovoltaicos
   
  
-
-<code><img align="center" height="380" src="./prtscreens/hom.jpg"></code>
-
+<p align="center">
+   <code><img  height="380" src="./prtscreens/hom.jpg"></code>
+</p>
 <h2 align="center">Home ⬆️</h2>
 
 <code><img height="380" src="./prtscreens/res.jpg"></code>
