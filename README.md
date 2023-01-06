@@ -21,8 +21,9 @@
  
 <p align="center">
    <code><img  height="400" src="./prtscreens/hom.jpg"></code>
+   <h2 align="center">Home ⬆️</h2>
 </p>
-<h2 align="center">Home ⬆️</h2>
+
 
 <p align="center">
    <code><img height="400" src="./prtscreens/res.jpg"></code>
